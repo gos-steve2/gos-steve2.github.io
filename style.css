@@ -17,16 +17,6 @@ body {
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
-h3 {
-  background: linear-gradient(
-    260deg,
-    #9aa3ad,
-    #05c1da,
-    #09d8c7,
-    rgb(223, 1, 243)
-  );
-  animation: gradientMove 1s ease infinite;
-}
 
 button{
   margin: 0 15px 0 15px;
